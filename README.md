@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kjs-python-student
+- 👋 Hi, I’m @ken-turtle-learner
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on simple projects that demonstrate basic python techniques
